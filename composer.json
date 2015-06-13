@@ -1,0 +1,24 @@
+{
+    "name": "brookinsconsulting/bcuserregisteruserplacement",
+    "description": "eZ Publish Legacy extension which provides a workflow event and settings to move a user upon creation to a specific user group or other content tree node based on the selection choice made during user registration (via user input). Great for organizing user object within specific groups automatically!",
+    "type": "ezpublish-legacy-extension",
+    "keywords": [ "eZ Publish", "user", "register", "placement", "selection", "workflow" ],
+    "homepage": "https://github.com/brookinsconsulting/bcuserregisteruserplacement",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name" : "Brookins Consulting",
+            "homepage": "http://brookinsconsulting.com",
+            "email": "info@brookinsconsulting.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.0.0",
+        "ezsystems/ezpublish-legacy-installer": "*"
+    },
+    "extra": {
+        "ezpublish-legacy-extension-name": "bcuserregisteruserplacement"
+    }
+}

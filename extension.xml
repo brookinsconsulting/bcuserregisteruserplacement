@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>BC User Register User Placement</name>
+        <version>3.0.0</version>
+        <copyright>Copyright (C) 1999 - 2016 Brookins Consulting</copyright>
+        <license>GNU General Public License v2</license>
+        <info_url>https://github.com/brookinsconsulting/bcuserregisteruserplacement</info_url>
+    </metadata>
+</software>
