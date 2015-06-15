@@ -60,7 +60,7 @@ The following requirements exists for using BC User Register User Placement exte
 
 ### eZ Publish version
 
-* Make sure you use eZ Publish version 5.x (required) or higher.
+* Make sure you use eZ Publish version 4.3 (required) or higher.
 
 * Designed and tested with eZ Publish Community Project 2014.11
 
